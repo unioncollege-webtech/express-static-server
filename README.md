@@ -1,12 +1,13 @@
 Express Static Server
 =====================
 
-This is a simple example of an static file server using Node.js and Express.
+This is a simple example of an static file server using [Node.js](https://nodejs.org/api/synopsis.html)
+and [Express](http://expressjs.com/4x/api.html).
 
 Installation
 ------------
 
-This uses the npm module `express`. Be sure to install `express`, then use node
+This uses the npm module [`express`](https://npmjs.com/package/express). Be sure to install `express`, then use node
 to run the server:
 
 ```sh
