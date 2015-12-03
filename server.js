@@ -22,7 +22,7 @@ app.get('/bye', function (req, res){
 
 function counter() {
     
-});
+};
 //add retrieve() and record()
 
 // Listen on port 8080 for Cloud9
